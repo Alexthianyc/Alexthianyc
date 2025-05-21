@@ -13,7 +13,7 @@ Me gradué con honores y desempeñé el rol de Auxiliar de Cátedra en la asigna
 ## 📫 Contacto
 
 - 📧 Email: [crissge2016@gmail.com](mailto:crissge2016@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/cristiange](https://www.linkedin.com/in/cristiange)
+- 💼 LinkedIn: [linkedin.com/in/cristiange](https://www.linkedin.com/in/cristian-guardado-dev/)
 
 
 <!--
